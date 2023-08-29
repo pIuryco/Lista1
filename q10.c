@@ -5,9 +5,9 @@ int main(void) {
   
   printf("Insira a largura do retangulo\n");
     scanf("%f", &largura);
-  printf("Insira a largura do retangulo\n");
+  printf("Insira o comprimento do retangulo\n");
     scanf("%f", &comprimento);
-  printf("Insira a largura do retangulo\n");
+  printf("Insira a altura do retangulo\n");
     scanf("%f", &altura);
   volume = largura * altura * comprimento;
 
